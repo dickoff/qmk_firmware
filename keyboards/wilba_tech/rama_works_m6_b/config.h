@@ -37,7 +37,7 @@
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
 
-#define RGB_BACKLIGHT_ENABLED 1
+#define RGB_BACKLIGHT_ENABLED 0
 
 // This conditionally compiles the backlight code for M6-B specifics
 #define RGB_BACKLIGHT_M6_B
